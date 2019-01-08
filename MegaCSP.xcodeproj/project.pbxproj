@@ -8,13 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		F962EF8E21DFC2F600139750 /* ArtCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF8D21DFC2F600139750 /* ArtCollectionViewController.swift */; };
-		F962EF9221DFC34400139750 /* AlgorithmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF9121DFC34400139750 /* AlgorithmViewController.swift */; };
 		F962EF9521DFC36400139750 /* AbstractionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF9421DFC36400139750 /* AbstractionViewController.swift */; };
 		F962EF9821DFC38A00139750 /* BucketItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF9721DFC38A00139750 /* BucketItemCell.swift */; };
 		F962EF9A21DFC39A00139750 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF9921DFC39A00139750 /* DataViewController.swift */; };
-		F962EF9D21DFC3AF00139750 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F962EF9C21DFC3AF00139750 /* ViewController.swift */; };
+		F967041721DFC58A00AC8020 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F967041521DFC58A00AC8020 /* DrawingView.swift */; };
+		F967041821DFC58A00AC8020 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F967041621DFC58A00AC8020 /* ArtCell.swift */; };
+		F99F64AA21E4F81000D6CD61 /* AlgorithmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99F64A921E4F81000D6CD61 /* AlgorithmViewController.swift */; };
+		F99F64AE21E4F8DB00D6CD61 /* BucketItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99F64AD21E4F8DB00D6CD61 /* BucketItem.swift */; };
 		F9E54E7921DFB5530044CD88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E54E7821DFB5530044CD88 /* AppDelegate.swift */; };
-		F9E54E7B21DFB5530044CD88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E54E7A21DFB5530044CD88 /* ViewController.swift */; };
 		F9E54E7E21DFB5530044CD88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E54E7C21DFB5530044CD88 /* Main.storyboard */; };
 		F9E54E8021DFB5690044CD88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9E54E7F21DFB5690044CD88 /* Assets.xcassets */; };
 		F9E54E8321DFB5690044CD88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E54E8121DFB5690044CD88 /* LaunchScreen.storyboard */; };
@@ -22,14 +23,15 @@
 
 /* Begin PBXFileReference section */
 		F962EF8D21DFC2F600139750 /* ArtCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCollectionViewController.swift; sourceTree = "<group>"; };
-		F962EF9121DFC34400139750 /* AlgorithmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlgorithmViewController.swift; sourceTree = "<group>"; };
 		F962EF9421DFC36400139750 /* AbstractionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbstractionViewController.swift; sourceTree = "<group>"; };
 		F962EF9721DFC38A00139750 /* BucketItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItemCell.swift; sourceTree = "<group>"; };
 		F962EF9921DFC39A00139750 /* DataViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
-		F962EF9C21DFC3AF00139750 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F967041521DFC58A00AC8020 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		F967041621DFC58A00AC8020 /* ArtCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
+		F99F64A921E4F81000D6CD61 /* AlgorithmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlgorithmViewController.swift; path = ../../../../GuillermoAlgorithm/GuillermoAlgorithm/Controller/AlgorithmViewController.swift; sourceTree = "<group>"; };
+		F99F64AD21E4F8DB00D6CD61 /* BucketItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItem.swift; sourceTree = "<group>"; };
 		F9E54E7521DFB5520044CD88 /* MegaCSP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MegaCSP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E54E7821DFB5530044CD88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F9E54E7A21DFB5530044CD88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F9E54E7D21DFB5530044CD88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F9E54E7F21DFB5690044CD88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9E54E8221DFB5690044CD88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -50,7 +52,7 @@
 		F962EF8921DFC21D00139750 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				F962EF9121DFC34400139750 /* AlgorithmViewController.swift */,
+				F99F64A921E4F81000D6CD61 /* AlgorithmViewController.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -74,11 +76,19 @@
 		F962EF9621DFC36A00139750 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				F962EF9C21DFC3AF00139750 /* ViewController.swift */,
+				F99F64AC21E4F8BF00D6CD61 /* Model */,
 				F962EF9921DFC39A00139750 /* DataViewController.swift */,
 				F962EF9721DFC38A00139750 /* BucketItemCell.swift */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		F99F64AC21E4F8BF00D6CD61 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F99F64AD21E4F8DB00D6CD61 /* BucketItem.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 		F9E54E6C21DFB5520044CD88 = {
@@ -124,7 +134,6 @@
 				F962EF9321DFC34B00139750 /* Abstractions */,
 				F962EF8C21DFC28A00139750 /* Creativity */,
 				F962EF8921DFC21D00139750 /* Algorithm */,
-				F9E54E7A21DFB5530044CD88 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -132,6 +141,8 @@
 		F9E54E8C21DFB5F70044CD88 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				F967041621DFC58A00AC8020 /* ArtCell.swift */,
+				F967041521DFC58A00AC8020 /* DrawingView.swift */,
 				F9E54E7C21DFB5530044CD88 /* Main.storyboard */,
 				F9E54E8121DFB5690044CD88 /* LaunchScreen.storyboard */,
 			);
@@ -209,13 +220,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F99F64AA21E4F81000D6CD61 /* AlgorithmViewController.swift in Sources */,
 				F962EF9821DFC38A00139750 /* BucketItemCell.swift in Sources */,
 				F962EF9A21DFC39A00139750 /* DataViewController.swift in Sources */,
-				F9E54E7B21DFB5530044CD88 /* ViewController.swift in Sources */,
+				F99F64AE21E4F8DB00D6CD61 /* BucketItem.swift in Sources */,
 				F962EF8E21DFC2F600139750 /* ArtCollectionViewController.swift in Sources */,
-				F962EF9221DFC34400139750 /* AlgorithmViewController.swift in Sources */,
 				F9E54E7921DFB5530044CD88 /* AppDelegate.swift in Sources */,
-				F962EF9D21DFC3AF00139750 /* ViewController.swift in Sources */,
+				F967041721DFC58A00AC8020 /* DrawingView.swift in Sources */,
+				F967041821DFC58A00AC8020 /* ArtCell.swift in Sources */,
 				F962EF9521DFC36400139750 /* AbstractionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -363,7 +375,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MegaCSP/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/MegaCSP/Resources /Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -380,7 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MegaCSP/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/MegaCSP/Resources /Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
